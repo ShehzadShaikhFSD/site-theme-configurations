@@ -1,0 +1,21 @@
+{
+    "themes": [
+      {
+        "domain": "example.com",
+        "theme": "default"
+      },
+      {
+        "domain": "subdomain1.example.com",
+        "theme": "dark"
+      },
+      {
+        "domain": "subdomain2.example.com",
+        "theme": "light"
+      },
+      {
+        "domain": "anotherdomain.com",
+        "theme": "blue"
+      }
+    ]
+  }
+  
