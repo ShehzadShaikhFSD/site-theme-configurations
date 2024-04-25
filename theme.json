@@ -1,20 +1,40 @@
 {
     "themes": [
       {
-        "domain": "example.com",
-        "theme": "default"
+        "domain": "curecheck.optiorx.com",
+        "theme": "DDS",
+        "therapy" : "DDS",
+        "siteId" : "0",
+        "devBackendUnMapped" : "https://development-redcircle-fb2ace51f4d4.herokuapp.com",
+        "devBackendMapped" : "dev.api.curecheck.optiorx.com",
+        "backend" : "api.curecheck.optiorx.com"
       },
       {
-        "domain": "subdomain1.example.com",
-        "theme": "dark"
+        "domain": "medicinesstore.netlify.app",
+        "theme": "DDS",
+        "therapy" : "DDS",
+        "siteId" : "0",
+        "devBackendUnMapped" : "https://development-redcircle-fb2ace51f4d4.herokuapp.com",
+        "devBackendMapped" : "dev.api.curecheck.optiorx.com",
+        "backend" : "api.curecheck.optiorx.com"
       },
       {
-        "domain": "subdomain2.example.com",
-        "theme": "light"
+        "domain": "cutiscurae.optiorx.com",
+        "theme": "SKIN",
+        "therapy" : "SKIN",
+        "siteId" : "2",
+        "devBackendUnMapped" : "https://development-redcircle-fb2ace51f4d4.herokuapp.com",
+        "devBackendMapped" : "dev.api.cutiscurae.optiorx.com",
+        "backend" : "api.cutiscurae.optiorx.com"
       },
       {
-        "domain": "anotherdomain.com",
-        "theme": "blue"
+        "domain": "bhrt.optiorx.com",
+        "theme": "BHRT",
+        "therapy" : "BHRT",
+        "siteId" : "1",
+        "devBackendUnMapped" : "https://development-redcircle-fb2ace51f4d4.herokuapp.com",
+        "devBackendMapped" : "dev.api.bhrt.optiorx.com",
+        "backend" : "api.bhrt.optiorx.com"
       }
     ]
   }
